@@ -2,6 +2,15 @@
 
 Full-day pre-conference workshop at Power Conference 2026, Prague, for intermediate and experienced Power BI and Fabric practitioners (level 200 to 300). It runs on December 2, 2026, from 9:00 to 17:00, at the Clarion Congress Hotel Prague. The day is for Power BI developers who have tried GitHub Copilot but do not yet have a structured workflow, Fabric developers and data engineers who want to see where MCP servers fit, and tech leads and architects who want hands-on evidence before recommending agentic tools. Teaching blocks and hands-on labs alternate through apps, semantic models, and reports.
 
+## What you'll learn
+
+- How agents, harnesses, skills, and tools fit together. You give the intent. The harness runs the agent. Skills teach the agent how you work. Tools, including MCP servers, do the work.
+- How to build a report app in Power BI Desktop for Apps with GitHub Copilot.
+- How to build an app in Rayfin Fabricator, and how to scaffold a Rayfin app in VS Code from a template.
+- How to use MCP servers to explore a semantic model and shape it.
+- How to shape a PBIP report with an agent. That covers the Desktop Bridge, Skills for Fabric, pages, visuals, and theme files.
+- What you take home: a skills.md blueprint, prompt templates, and a decision map for when to use which tool.
+
 ## Agenda
 
 | Time | Block |
